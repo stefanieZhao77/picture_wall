@@ -1,0 +1,28 @@
+{
+  "name": "picture_wall",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanieZhao77/picture_wall.git"
+  },
+  "author": "Stefanie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stefanieZhao77/picture_wall/issues"
+  },
+  "homepage": "https://github.com/stefanieZhao77/picture_wall#readme",
+  "dependencies": {
+    "three": "^0.110.0",
+    "vue": "^2.6.10"
+  },
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
